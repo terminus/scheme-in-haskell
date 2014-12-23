@@ -9,13 +9,13 @@ import qualified Text.Read as R
        
 
 main2 :: IO ()
-main2 = do putStrLn "What's your name buddy? "
+main2 = do putStrLn "What's your name? "
            args <- getLine
            putStrLn ("Hello, " ++ show (f args 0) ++ show (f args 1))
            where f a w = ((+ 0). read) a
 
 main :: IO ()
-main = do putStrLn "What's your name buddy? "
+main = do putStrLn "What's your name? "
           args <- getLine
           putStrLn $ case args of
                    "a" -> "This"
