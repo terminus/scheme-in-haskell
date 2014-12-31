@@ -1,0 +1,14 @@
+* [[https://upload.wikimedia.org/wikipedia/commons/a/aa/Write_Yourself_a_Scheme_in_48_Hours.pdf][Write yourself a scheme in 48 hours]]
+  Starting point.
+* [[ftp://ftp.cs.utexas.edu/pub/garbage/cs345/schintro-v14/schintro_toc.html][Introduction to Scheme and its implementation]]
+  A 1996 Postscript is available: schintro.ps
+
+  Author: Wilson
+  
+  Details features of lisp and a possible implementation.
+
+* [[http://repository.readscheme.org/ftp/papers/pepm99/bawden.pdf][Quasiquotation in Lisp]]
+  Author: Alan Bawden
+  
+  Motivates usefulness of a quasiquotation like feature when programs
+  generate programs. Contrasts a C like printf style formatting approach.
