@@ -1,9 +1,8 @@
 * [[https://upload.wikimedia.org/wikipedia/commons/a/aa/Write_Yourself_a_Scheme_in_48_Hours.pdf][Write yourself a scheme in 48 hours]]
-  Starting point.
-* [[ftp://ftp.cs.utexas.edu/pub/garbage/cs345/schintro-v14/schintro_toc.html][Introduction to Scheme and its implementation]]
-  A 1996 Postscript is available: schintro.ps
+  Build a R5RS scheme interpreter in haskell.
 
-  Author: Wilson
+* [[http://www.cs.rpi.edu/courses/fall00/ai/scheme/reference/schintro-v14/schintro_toc.html][Introduction to Scheme and its implementation]]
+  Author: Paul Wilson (1996 postscript file schintro.ps is available.)
   
   Details features of lisp and a possible implementation.
 
